@@ -1,0 +1,7 @@
+F:\Assignment\review-case-S22B1\Sender\bin\Debug\Sender.exe.config
+F:\Assignment\review-case-S22B1\Sender\bin\Debug\Sender.exe
+F:\Assignment\review-case-S22B1\Sender\bin\Debug\Sender.pdb
+F:\Assignment\review-case-S22B1\Sender\obj\Debug\Sender.csprojAssemblyReference.cache
+F:\Assignment\review-case-S22B1\Sender\obj\Debug\Sender.csproj.CoreCompileInputs.cache
+F:\Assignment\review-case-S22B1\Sender\obj\Debug\Sender.exe
+F:\Assignment\review-case-S22B1\Sender\obj\Debug\Sender.pdb
