@@ -7,6 +7,7 @@ namespace Receiver
 	{
 		static void Main()
 		{
+			//Creating Dictionary
 			SortedDictionary<string, int> wordCountDictionary = new SortedDictionary<string, int>();
 			string line = "";
 			FileOperation fileOperation = new FileOperation();
