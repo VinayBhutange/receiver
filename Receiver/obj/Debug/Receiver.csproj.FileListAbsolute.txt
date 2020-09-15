@@ -1,7 +1,0 @@
-F:\Assignment\review-case-S22B1\Receiver\bin\Debug\Receiver.exe.config
-F:\Assignment\review-case-S22B1\Receiver\bin\Debug\Receiver.exe
-F:\Assignment\review-case-S22B1\Receiver\bin\Debug\Receiver.pdb
-F:\Assignment\review-case-S22B1\Receiver\obj\Debug\Receiver.csprojAssemblyReference.cache
-F:\Assignment\review-case-S22B1\Receiver\obj\Debug\Receiver.csproj.CoreCompileInputs.cache
-F:\Assignment\review-case-S22B1\Receiver\obj\Debug\Receiver.exe
-F:\Assignment\review-case-S22B1\Receiver\obj\Debug\Receiver.pdb
