@@ -1,0 +1,25 @@
+name: Build and Run
+ 
+on: 
+    push:
+        branches: [master]
+ 
+jobs:
+  build:
+ 
+    runs-on: windows-latest
+    
+    env:
+      Solution_Name: Review-Case-Study.sln
+      Test_Project_Path: Review-Case-Study.Tests\Review-Case-Study.Tests.csproj
+ 
+    steps:
+    - uses: actions/checkout@v1
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 3.1.100
+    - name: Build with dotnet
+      run: dotnet build --configuration Release
+    - name: Run unit tests
+      run: dotnet test --no-build --configuration Release
