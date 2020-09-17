@@ -36,11 +36,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinay\\Desktop\\786\\receiver\\Sender\\Sender.csproj",
+      "projectUniqueName": "C:\\Users\\Vinay\\Desktop\\Madhura mam\\receiver\\Sender\\Sender.csproj",
       "projectName": "Sender",
-      "projectPath": "C:\\Users\\Vinay\\Desktop\\786\\receiver\\Sender\\Sender.csproj",
+      "projectPath": "C:\\Users\\Vinay\\Desktop\\Madhura mam\\receiver\\Sender\\Sender.csproj",
       "packagesPath": "C:\\Users\\Vinay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinay\\Desktop\\786\\receiver\\Sender\\obj\\",
+      "outputPath": "C:\\Users\\Vinay\\Desktop\\Madhura mam\\receiver\\Sender\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

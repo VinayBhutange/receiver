@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Receiver
 {
-	public static class Program
+	class Program
 	{
 		static void Main()
 		{
@@ -24,5 +24,5 @@ namespace Receiver
 			}
 			fileOperation.WriteWordAndItsCount(wordCountDictionary);
 		}
-	}
+	}	
 }
