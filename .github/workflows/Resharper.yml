@@ -18,7 +18,7 @@ jobs:
         run: jb inspectcode Review-Case-Study.sln /output=insreport.xml
        
       - name: Run resharper duplicate code check
-        run: jb dupfinder Review-Case-Study.sln -o=dupreport.xml
+        run: jb dupfinder Review-Case-Study.sln /o=dupreport.xml
        
       - name: Check Reports
         run: powershell ./resharper.ps1
